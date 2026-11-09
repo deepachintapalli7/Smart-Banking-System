@@ -1,0 +1,8 @@
+#Transaction Details
+#Mon Nov 09 14:27:02 IST 2026
+accountNumber=ACC001
+amount=1000
+description=Test deposit
+relatedAccount=
+transactionId=TXN1794214622736
+transactionType=DEPOSIT
