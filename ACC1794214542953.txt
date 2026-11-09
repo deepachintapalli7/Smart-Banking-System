@@ -1,0 +1,6 @@
+#Account Details
+#Mon Nov 09 14:25:42 IST 2026
+accountNumber=ACC1794214542953
+accountType=Savings
+balance=5000
+customerId=CUST001
